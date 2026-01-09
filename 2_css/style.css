@@ -57,7 +57,7 @@ button:hover {
     background-color: #e3f2fd; /*podswietlenie po najechaniu */
     transform: scale(1.05);
 }
-.lista.sprzetu{
+.lista-sprzetu{
     grid-column: 1 / -1;
     background-color: #ffffff;
     border: 1px dashed #666;
