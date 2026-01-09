@@ -1,0 +1,9 @@
+[
+    {
+        "id": "sor",
+        "nazwa": "SOR",
+        "opis": "Szpitalny Oddział Ratunkowy",
+        "pietro": 0,
+        "klasaCss": "sor"
+    }
+]

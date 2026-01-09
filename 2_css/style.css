@@ -1,0 +1,34 @@
+
+body {
+    font-family: Arial, sans-serif; /* czcionka */
+    text-align: center; /* To wyśrodkowuje przyciski */
+    background-color: #f4f4f9; /*kolor tła */
+    margin: 0; /* margines */
+    padding: 0; /* odsuniecie tekstu od ramki */
+}
+
+header {
+    background-color: #005696; /* kolor tego paska u gory */
+    color: white; /* kolor napisow na pasku */
+    padding: 20px 0; /* odsuniecie napisow od krancow tego paska niebieskiego*/
+    margin-bottom: 20px; /* margines */
+}
+
+button {
+    padding: 15px 30px; /* odsuniecie tekstu od ramki */
+    margin: 10px; /* margines */
+    font-size: 16px; /* rozmiar czcionki */
+    cursor: pointer; /* zmienia kursor w raczke */
+    background-color: #007acc; /* kolor przycisku normalnie */
+    color: white; /* kolor napisu na przyciskach */
+    border: none; /* obramowanie */
+    border-radius: 10px; /* zaokraglenie krawedzi przyciskow */
+}
+
+button:hover {
+    background-color: #005fa3; /* kolor przycisku po najechaniu */
+}
+
+.widok-pietra {
+    display: none; /* Ukrywa widoki na start */
+}
