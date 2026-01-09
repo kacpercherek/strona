@@ -1,9 +1,50 @@
-[
+
     {
-        "id": "sor",
-        "nazwa": "SOR",
-        "opis": "Szpitalny Oddział Ratunkowy",
-        "pietro": 0,
-        "klasaCss": "sor"
+        "pietro0": [
+            {
+                "id": "p0_1",
+                "nazwa": "Recepcja / SOR",
+                "sprzet": [
+                    {
+                        "nazwa": "Komputer do rejestracji",
+                        "opis": "Urządzenie, które pozwala na rejestracje pacjentów oraz zarządzanie kolejką",
+                        "zdjece": "link do kompa"
+                    },
+                    {
+                        "nazwa": "Defibrylator",
+                        "opis": "Urządzenie służące do przeprowadzania defibrylacji serca pacjenta",
+                        "zdjecie": "link do zdjecia defi"
+                    }
+                ]
+            },
+            {
+                "id": "p0_2",
+                "nazwa": "Diagnostyka obrazowa",
+                "sprzet": [
+                    {
+                        "nazwa": "Rezonans Magentyczny (MRI)",
+                        "opis": "Skaner, umożliwiający bezinwazyjne badanie wnętrza pacjenta",
+                        "zdjecie": "zdjecie mri"
+                    },
+                    {
+                        "nazwa": "Rentgen (RTG)",
+                        "opis": "Aparat, który umożliwia robienie zdjęć układu kostnego",
+                        "zdjecie": "zdjecie rtg"
+                    }
+                ]
+            }
+        ],
+        "pietro1": [
+            {
+                "id": "p1_1",
+                "nazwa": "Oddział Kardiologii",
+                "sprzet": [
+                    {
+                        "nazwa": "Elektrokardiograf (EKG)",
+                        "opis": "Urządzenie do badania czynności elektrycznej serca",
+                        "zdjecie": "zdjecie ekg"
+                    }
+                ]
+            }
+        ]
     }
-]

@@ -32,3 +32,85 @@ button:hover {
 .widok-pietra {
     display: none; /* Ukrywa widoki na start */
 }
+
+
+.mapa-szpitala{
+    display: grid;
+    grid-template-columns: 1fr 80px 1fr;
+    gap: 20px;
+    max-width: 900px;
+    margin: 20px auto;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 2px solid #333;
+}
+.sala {
+    background-color: #fff;
+    border: 2px solid #005696;
+    padding: 20px;
+    cursor: pointer;
+    text-align: center;
+    transition: 0.3s;
+    border-radius: 8px;
+}
+.sala:hover {
+    background-color: #e3f2fd; /*podswietlenie po najechaniu */
+    transform: scale(1.05);
+}
+.lista.sprzetu{
+    grid-column: 1 / -1;
+    background-color: #ffffff;
+    border: 1px dashed #666;
+    padding: 15px;
+    margin-top: -15px;
+    margin-bottom: 15px;
+    display: none; /* lista domyślnie ukryta */
+}
+.btn-sprzet {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn-sprzet:hover {
+    background-color: #218838;
+}
+
+.modal {
+    display: none; /*ukryta na poczatku */
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0,7); /*takie ciemniejsze tlo */
+}
+.modal-tresc {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 500px;
+    border-radius: 10px;
+    text-align: center;
+}
+.modal-tresc img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin: 15px 0;
+}
+.zamknij {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
