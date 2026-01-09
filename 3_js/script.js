@@ -76,7 +76,7 @@ window.onclick = function(event) {
     }
 }
 
-fetch('szpital-json')
+fetch('szpital.json')
 .then(response => response.json())
 .then(data => {
     console.log("Dane pobrane:", data);
