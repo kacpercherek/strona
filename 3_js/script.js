@@ -75,3 +75,12 @@ window.onclick = function(event) {
         modal.style.display = "none";
     }
 }
+
+fetch('szpital-json')
+.then(response => response.json())
+.then(data => {
+    console.log("Dane pobrane:", data);
+    generujPietro(data.pietro0, 'kontener-mapy-0');
+    generujPietro(data.pietro1, 'kontener-mapy-1');
+})
+.catch(error => console.error('Błąd pobierania JSON:', error))
