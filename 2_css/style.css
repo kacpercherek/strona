@@ -135,20 +135,23 @@ button:hover {
 
 .modal-tresc {
     background-color: #fefefe;
-    margin: 15% auto;
+    margin: 5% auto;
     padding: 20px;
     border: 1px solid #888;
-    width: 80%;
+    width: 90%;
     max-width: 500px;
     border-radius: 10px;
     text-align: center;
+    max-height: 80vh;
+    overflow-y: auto;
 }
 
 .modal-tresc img {
     max-width: 100%;
     height: auto;
-    border-radius: 5px;
-    margin: 15px 0;
+    margin-bottom: 15px;
+    max-height: 300px;
+    object-fit: contain;
 }
 
 .zamknij {
