@@ -8,17 +8,17 @@
                     {
                         "nazwa": "Komputer do rejestracji",
                         "opis": "Urządzenie, które pozwala na rejestracje pacjentów oraz zarządzanie kolejką",
-                        "zdjecie": "link do kompa"
+                        "zdjecie": "4_images/komputerdorejestracji.png"
                     },
                     {
                         "nazwa": "Defibrylator",
                         "opis": "Urządzenie służące do przeprowadzania defibrylacji serca pacjenta",
-                        "zdjecie": "link do zdjecia defi"
+                        "zdjecie": "4_images/defibrylator.png"
                     },
                     {
                         "nazwa": "Łóżko szpitalne",
                         "opis": "Łóżko, na którym leży pacjent",
-                        "zdjecie": "zdjecie lozka"
+                        "zdjecie": "4_images/lozkoszpitalne.png"
                     }
                 ]
             },
@@ -29,17 +29,17 @@
                     {
                         "nazwa": "Rezonans Magentyczny (MRI)",
                         "opis": "Skaner, umożliwiający bezinwazyjne badanie wnętrza pacjenta",
-                        "zdjecie": "zdjecie mri"
+                        "zdjecie": "4_images/mri.png"
                     },
                     {
                         "nazwa": "Rentgen (RTG)",
                         "opis": "Aparat, który umożliwia robienie zdjęć układu kostnego",
-                        "zdjecie": "zdjecie rtg"
+                        "zdjecie": "4_images/rtg.png"
                     },
                     {
                         "nazwa": "Tomograf komputerowy (CT)",
                         "opis": "Urządzenie, które generuje szczegółowe obrazy przekrojowe pacjenta",
-                        "zdjecie": "zdjecie ct"
+                        "zdjecie": "4_images/ct.png"
                     }
                 ]
             },
@@ -50,22 +50,22 @@
                     {
                         "nazwa": "Stetoskop",
                         "opis": "Pozwala analizować dźwięki z wnętrza ciała pacjenta np. bicie serca",
-                        "zdjecie": "zdjecie stetoskopu"
+                        "zdjecie": "4_images/stetoskop.png"
                     },
                     {
                         "nazwa": "Otoskop",
                         "opis": "Urządzenie do badania uszu",
-                        "zdjecie": "zdjecie otoskopu"
+                        "zdjecie": "4_images/otoskop.png"
                     },
                     {
                         "nazwa": "Waga niemowlęca",
                         "opis": "Waga w kształcie wanienki, które pozwala na sprawdzenie masy ciała dziecka",
-                        "zdjecie": "zdjecie wagi"
+                        "zdjecie": "4_images/waganiemowleca.png"
                     },
                     {
                         "nazwa": "Pulsoksymetr",
                         "opis": "Specjalne czujniki mierzące puls",
-                        "zdjecie": "zdjecie pulsoksymetru"
+                        "zdjecie": "4_images/pulsoksymetr.png"
                     }
                 ]
             }
@@ -78,22 +78,22 @@
                     {
                         "nazwa": "Elektrokardiograf (EKG)",
                         "opis": "Urządzenie do badania czynności elektrycznej serca",
-                        "zdjecie": "zdjecie ekg"
+                        "zdjecie": "4_images/ekg.png"
                     },
                     {
                         "nazwa": "Kardiomonitor",
                         "opis": "Monitor, na którym pokazują sie parametry: tętno, saturacja, ciśnienie",
-                        "zdjecie": "zdjecie kardiomonitora"
+                        "zdjecie": "4_images/kardiomonitor.png"
                     },
                     {
-                        "nazwa": "Pompy fuzyjne",
+                        "nazwa": "Pompy infuzyjne",
                         "opis": "Precyzyjne urządzenie służące do podawania leków",
-                        "zdjecie": "zdjecie pompy fuzyjnej"
+                        "zdjecie": "4_images/pompainfuzyjna.png"
                     },
                     {
                         "nazwa": "Respirator",
                         "opis": "Urządzenie, służące do mechanicznej wentyklacji płuc",
-                        "zdjecie": "zdjecie respiratora"
+                        "zdjecie": "4_images/respirator.png"
                     }
                 ]
             },
@@ -104,17 +104,17 @@
                     {
                         "nazwa": "Zaawansowana pompa infuzyjna",
                         "opis": "Pompy podające specjalistyczne leki (chemię)",
-                        "zdjecie": "zdjecie zaawansowanej pompy infuzyjnej"
+                        "zdjecie": "4_images/zaawansowanapompainfuzyjna.png"
                     },
                     {
                         "nazwa": "Porty naczyniowe",
                         "opis": "Port wszywany pod skórę, oszczędzający żyły obwodowe pacjenta",
-                        "zdjecie": "zdjecie portu naczyniowego"
+                        "zdjecie": "4_images/portnaczyniowy.png"
                     },
                     {
                         "nazwa": "System zamknięty do podaży leków",
                         "opis": "Specjalne dreny i łącza, zapobiegające wydostawaniu się toksycznego leku na zewnątrz",
-                        "zdjecie": "zdjecie systemu zamknietego"
+                        "zdjecie": "4_images/systemzamkniety"
                     }
                 ]
             },
@@ -125,22 +125,22 @@
                     {
                         "nazwa": "Aparat EEG (Elektroencefalograf)",
                         "opis": "Aparat, który rejestruje fale mózgowe pacjenta",
-                        "zdjecie": "zdjecie systemu zamknietego"
+                        "zdjecie": "4_images/eeg.png"
                     },
                     {
                         "nazwa": "USG Doppler",
                         "opis": "Urządzenie, służące do oceny przepływu krwi w tętnicach doprowadzających krew do mózgu",
-                        "zdjecie": "zdjecie USG Doppler"
+                        "zdjecie": "4_images/usgdoppler.png"
                     },
                     {
                         "nazwa": "Aparat EMG (Elektromiograf)",
                         "opis": "Urządzenie służące do diagnozowania i badania czynności elektrycznej mięśni oraz nerwów obwodowych",
-                        "zdjecie": "zdjecie systemu zamknietego"
+                        "zdjecie": "4_images/emgeng.png"
                     },
                     {
                         "nazwa": "Aparat ENG (Elektroneurograf)",
                         "opis": "Urządzenie oceniające funkcję nerwów obwodowych",
-                        "zdjecie": "zdjecie ENG"
+                        "zdjecie": "4_images/emgeng.png"
                     }
                 ]
             },
@@ -151,32 +151,32 @@
                     {
                         "nazwa": "Stół operacyjny",
                         "opis": "Wąski, sterowany elektrycznie stół, na którym leży pacjent podczas operacji",
-                        "zdjecie": "zdjecie stolu operacyjnego"
+                        "zdjecie": "4_images/stoloperacyjny.png"
                     },
                     {
                         "nazwa": "Lampy operacyjne",
                         "opis": "Ogromne wiszące nad stołem lampy, które nie robią cienia",
-                        "zdjecie": "zdjecie lamp operacyjnych"
+                        "zdjecie": "4_images/lampyoperacyjne.png"
                     },
                     {
                         "nazwa": "Aparat do znieczulania",
                         "opis": "Urządzenie, które miesza gazy medyczne z gazami usypiającymi i wtłacza je do płuc pacjenta",
-                        "zdjecie": "zdjecie aparatu do znieczulania"
+                        "zdjecie": "4_images/aparatdoznieczulenia.png"
                     },
                     {
                         "nazwa": "Ramię C",
                         "opis": "Aparat rentgenowski w kształcie litery C na kółkach",
-                        "zdjecie": "zdjecie ramienia C"
+                        "zdjecie": "4_images/ramieC.png"
                     },
                     {
                         "nazwa": "Ssak operacyjny",
                         "opis": "Głośne urządzenie, które w swoich zbiornikach zbiera krew i płyny pacjenta",
-                        "zdjecie": "zdjecie ssaka"
+                        "zdjecie": "4_images/ssakoperacyjny.png"
                     },
                     {
                         "nazwa": "Diatermia chirurgiczna (Nóż elektryczny)",
                         "opis": "Używa prądu o wysokiej częstotliwości, który jednocześnie tnie tkankę i zamyka naczynia krwionośne",
-                        "zdjecie": "zdjecie noza elektrycznego"
+                        "zdjecie": "4_images/diatermiachirurgiczna.png"
                     }
                 ]
             }
