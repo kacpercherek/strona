@@ -35,15 +35,18 @@ button:hover {
 
 .mapa-szpitala{
     display: grid;
-    grid-template-rows: auto 80px auto;    /*3 rzedy, pokoje / korytarz / pokoje */
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /*automatyczne kolumny*/
-    gap: 20px;
-    max-width: 1000px;
-    margin: 20px auto;
+    grid-template-rows: 1fr 60px 1fr;    /*3 rzedy, pokoje / korytarz / pokoje */
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); /*automatyczne kolumny*/
+    gap: 25px;
+    width: 95%;
+    max-width: 1800px;
+    margin: 30px auto;
     background-color: #f4f4f9;
-    padding: 20px;
-    border: 2px solid #333;
+    padding: 30px;
+    border: none;
+    border-radius: 15px;
     position: relative;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
 }
 
 .mapa-szpitala::before {
