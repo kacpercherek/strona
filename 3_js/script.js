@@ -37,6 +37,10 @@ function generujPietro(danePietra, kontenerId) {
     kontener.innerHTML = ''; // Czyszcze stare kafelki
 
     danePietra.forEach((sala) => {
+
+        const wrapper = document.createElement('div'); //to jest takie ala pudelko ktore trzyma pokoj i liste razem
+        wrapper.className = 'pokoj-wrapper'; //nowa klasa do cssa
+
         // Robie kafelek do sali
         const divSala = document.createElement('div');
         divSala.className = 'sala'; 
@@ -68,9 +72,9 @@ function generujPietro(danePietra, kontenerId) {
             }
         };
 
-        
-        kontener.appendChild(divSala);
-        kontener.appendChild(divLista);
+        wrapper.appendChild(divSala);
+        wrapper.appendChild(divLista);
+        kontener.appendChild(wrapper);
     });
 }
 
