@@ -25,6 +25,13 @@
                     <strong>I Piętro</strong><br>
                     <small>Specjalistyka, Diagnostyka (MRI, CT)</small>
                 </button>
+                <a href="usterka.php" style="text-decoration: none;">
+                    <button>
+                        <strong>Zgłoś Usterkę</strong><br>
+                        <small>Formulasz serwisowy</small>
+                    </button>
+                </a>
+
             </div>
         </div>
 
