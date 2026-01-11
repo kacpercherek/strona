@@ -68,6 +68,42 @@
                         "zdjecie": "4_images/pulsoksymetr.png"
                     }
                 ]
+            },
+            {
+                "id": "p0_4",
+                "nazwa": "Dyżurka Pielęgniarek",
+                "sprzet": [
+                    {
+                        "nazwa": "Szatnia",
+                        "opis": "Miejsce, w którym pielęgniarki mogą przebrać się w swoją odzież szpitalną",
+                        "zdjecie": "4_images/szatnia.png"
+                    },
+                    {
+                        "nazwa": "Księga Raportów Pielęgniarskich",
+                        "opis": "Księga, w której pielęgniarki zapisują przebieg dyżuru itp.",
+                        "zdjecie": "4_images/ksiega.png"
+                    },
+                    {
+                        "nazwa": "Szafa Pancerna",
+                        "opis": "Szafa zamknięta na klucz, w której trzymane są bardzo mocne leki opioidowe lub psychotropowe",
+                        "zdjecie": "4_images/szafapancerna.png"
+                    },
+                    {
+                        "nazwa": "Lodówka na Leki",
+                        "opis": "Specjalna lodówka, w której trzymane są leki wymagające przechowywania w niższej temperaturze",
+                        "zdjecie": "4_images/lodowka.png"
+                    },
+                    {
+                        "nazwa": "Glukometr",
+                        "opis": "Urządzenie, które pozwala na szybki pomiar cukru w krwi",
+                        "zdjecie": "4_images/glukometr.png"
+                    },
+                    {
+                        "nazwa": "Tacka na Leki",
+                        "opis": "Tacka z wgłebieniami służąca do rozkładania leków dla poszczególnych pacjentów",
+                        "zdjecie": "4_images/tacka.png"
+                    }
+                ]
             }
         ],
         "pietro1": [
