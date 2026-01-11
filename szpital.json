@@ -177,6 +177,11 @@
                         "nazwa": "Diatermia chirurgiczna (Nóż elektryczny)",
                         "opis": "Używa prądu o wysokiej częstotliwości, który jednocześnie tnie tkankę i zamyka naczynia krwionośne",
                         "zdjecie": "4_images/diatermiachirurgiczna.png"
+                    },
+                    {
+                        "nazwa": "Narzędzia chirurgiczne",
+                        "opis": "Narzędzia, którymi personel medyczny posługuje się podczas operacji",
+                        "zdjecie": "4_images/narzedzia.png"
                     }
                 ]
             }
